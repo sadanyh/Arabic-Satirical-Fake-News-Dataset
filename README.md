@@ -10,5 +10,5 @@ This is a dataset for Arabic satirical news. It is scraped from two satirical ne
       author={Saadany, Hadeel and Orasan, Constantin, and Mohamed, Emad},
       booktitle={3rd International Workshop on Rumours and Deception in Social Media (RDSM), COLING'2020, Barcelona, Spain, 12 Dec. 2020},
 
-      year={in press}
+      year={2020}
     }
