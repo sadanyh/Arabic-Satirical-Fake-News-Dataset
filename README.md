@@ -5,10 +5,10 @@ This is a dataset for Arabic satirical news. It is scraped from two satirical ne
 
 
 
-    @inproceedings{fake_news,
-      title={{Fake or Real? A Study of Arabic Satirical Fake News}},
-      author={Saadany, Hadeel and Orasan, Constantin, and Mohamed, Emad},
-      booktitle={3rd International Workshop on Rumours and Deception in Social Media (RDSM), COLING'2020, Barcelona, Spain, 12 Dec. 2020},
-
-      year={2020}
-    }
+   @inproceedings{saadany2020fake,
+  title={Fake or Real? A Study of Arabic Satirical Fake News},
+  author={Saadany, Hadeel and Orasan, Constantin and Mohamed, Emad},
+  booktitle={Proceedings of the 3rd International Workshop on Rumours and Deception in Social Media (RDSM)},
+  pages={70--80},
+  year={2020}
+}
